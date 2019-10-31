@@ -1,21 +1,19 @@
 # channel-command
 Change channel via chat command
 
+Hide UI enabled by default, edit `config.json` to change it.
+
 ## Commands
-- __`ch` · `c` · `ㅊ`__
-  - Base command, requires a parameter
-### Arguments
-- __`num`__
-  - Select channel `num`, where `num` is the channel number
-  - Channel `10` can be alternatively selected with `0`
-  - eg. `ch num`
-- __`n` · `ㅜ`__
-  - Select the "n"ext channel
-- __`b` · `ㅠ`__
-  - Select the preceding channel (go "b"ack a channel)
-  - No channel precedes channel `1`
+```
+c <num> - Enter the channel number you wish to go to (Example -> c 5)
+
+c n - Go to the next channel
+
+c b -  Go to the previous channel
+
+c ui - Enable/Disable Hide UI
+```
 
 ## Info
-- "Changing channels while inside a dungeon will teleport you out"
-- "Changing to a channel number that doesn't exist will send you to channel 1"
-
+- Changing channels while inside a dungeon will teleport you out
+- Changing to a channel number that doesn't exist will send you to channel 1

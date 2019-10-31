@@ -1,9 +1,9 @@
 {
   "files": {
-      "index.js": "4b392e9fb362dfb2c3615414114c339b92a9c33ca8ffe4c59ef2cd53ae50982e"
-  },
-  "defs": {
-      "C_SELECT_CHANNEL": 1,
-      "S_CURRENT_CHANNEL": 2
+      "config.json": {
+			"overwrite": false,
+			"hash": "3707bb2b5d75034eb496df6a8951fc1526e4d8e52e8db841e3784d3461b3c591"
+		},
+        "index.js": "16a204804d7f4e1dc2100063c9844a64629097bbee302fbbd53a169eecc6e23d"
   }
 }

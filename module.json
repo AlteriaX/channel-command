@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
 	"name": "channel-command",
-	"author": "teralove",
+	"author": "Alteria / teralove",
 	"description": "Change channel via chat command.",
 	"options": {
 		"niceName": "Channel Command"
 	},
-    "servers": ["https://raw.githubusercontent.com/teralove/channel-command/master/"],
-    "supportUrl": "https://github.com/teralove/channel-command/issues"
+    "servers": ["https://raw.githubusercontent.com/AlteriaX/channel-command/master/"],
+    "supportUrl": "https://github.com/AlteriaX/channel-command/issues"
 }
