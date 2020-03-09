@@ -6,6 +6,5 @@
 	"options": {
 		"niceName": "Channel Command"
 	},
-    "servers": ["https://raw.githubusercontent.com/AlteriaX/channel-command/master/"],
-    "supportUrl": "https://github.com/AlteriaX/channel-command/issues"
+    "servers": ["https://raw.githubusercontent.com/solitaryflower/channel-command/master/"]
 }
